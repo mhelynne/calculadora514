@@ -1,14 +1,15 @@
 def soma(a, b):
-	# implementar função
+	print("A soma é: ", a+b)
 
 def subtrai(a, b):
-	# implementar função
+	print("A diferença é: ", a-b)
 
 def multiplica(a, b):
-	# implementar função
+	print("A produto é: ", a*b)
 
 def divide(a, b):
-	# implementar função
+	# testar se o b é diferente de zero
+	print("A divisão é: ", a/b)
 
 #Programa principal
 
